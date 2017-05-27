@@ -1,0 +1,22 @@
+{
+  "name": "Vue-imgcrop",
+  "version": "1.0.0",
+  "description": "A Vue component for cut images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/JiaYii/vue-imgcrop.git",
+  "keywords": [
+    "vue"
+  ],
+  "author": "jiayi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JiaYii/vue-imgcrop.git/issues"
+  },
+  "homepage": "https://github.com/JiaYii/vue-imgcrop.git#readme",
+  "dependencies": {
+    "webpack": "^2.4.1"
+  }
+}
